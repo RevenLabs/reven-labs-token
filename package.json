@@ -1,0 +1,29 @@
+{
+  "name": "reven-labs-token",
+  "version": "1.0.0",
+  "description": "Reven Labs Token: Revolutionizing Decentralized Finance on Solana",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "mocha src/tests",
+    "deploy": "node src/scripts/deploy.js",
+    "interact": "node src/scripts/interact.js"
+  },
+  "keywords": [
+    "blockchain",
+    "Solana",
+    "DeFi",
+    "token",
+    "RevenLabs"
+  ],
+  "author": "Reven Labs Team",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.93.1",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "chai": "^4.3.7"
+  }
+}
