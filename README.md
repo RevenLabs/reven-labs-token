@@ -45,7 +45,7 @@ Be a part of the change. Together, we'll shape the future of blockchain innovati
 
 ## 🌟 Directory Structure 
 
-lua
+```
 reven-labs-token/
 ├── README.md
 ├── src/
@@ -71,6 +71,7 @@ reven-labs-token/
 ├── .env.example
 ├── .gitignore
 └── package.json
+```
 
 ---
 
