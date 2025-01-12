@@ -43,6 +43,36 @@ Be a part of the change. Together, we'll shape the future of blockchain innovati
 
 ---
 
+## 🌟 Directory Structure 
+
+reven-labs-token/
+├── README.md
+├── src/
+│   ├── contracts/
+│   │   └── RevenLabsToken.sol
+│   ├── utils/
+│   │   ├── math.js
+│   │   └── logger.js
+│   ├── scripts/
+│   │   ├── deploy.js
+│   │   └── interact.js
+│   ├── tests/
+│   │   ├── testToken.js
+│   │   └── testUtils.js
+│   ├── configs/
+│   │   └── network.js
+├── docs/
+│   ├── architecture.md
+│   ├── usage.md
+│   └── api-reference.md
+├── config/
+│   └── settings.json
+├── .env.example
+├── .gitignore
+└── package.json
+
+---
+
 ## 🔗 Stay Connected  
 
 <p align="center">
