@@ -46,9 +46,9 @@ Be a part of the change. Together, we'll shape the future of blockchain innovati
 ## 🔗 Stay Connected  
 
 <p align="center">
-  <a href="[https://revenlabs.fun/](https://revenlabs.fun/)"><strong>Website</strong></a> • 
-  <a href="[https://x.com/RevenLabsFun](https://x.com/RevenLabsFun)"><strong>Twitter</strong></a> • 
-  <a href="[https://t.me/RevenLabsfun](https://t.me/RevenLabsfun)"><strong>Telegram</strong></a>
+  <a href="https://revenlabs.fun/"><strong>Website</strong></a> • 
+  <a href="https://x.com/RevenLabsFun"><strong>Twitter</strong></a> • 
+  <a href="https://t.me/RevenLabsfun"><strong>Telegram</strong></a>
 </p>
 
 ---
